@@ -1,3 +1,0 @@
-script:
-  - echo hello world
-  - echo"Build has been completed."
