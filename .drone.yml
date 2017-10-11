@@ -1,4 +1,3 @@
-# ubuntu
 image: python
 script:
   - python helloworld.py
